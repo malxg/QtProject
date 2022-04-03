@@ -1,0 +1,2264 @@
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.74,
+    "sensorID": "5020",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:26:17"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.74,
+    "sensorID": "5020",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:26:18"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.74,
+    "sensorID": "5020",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:26:19"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5012",
+    "temperature": 7.59,
+    "timestamp": "2020-12-12 08:27:07"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5012",
+    "temperature": 7.59,
+    "timestamp": "2020-12-12 08:27:08"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.74,
+    "sensorID": "5012",
+    "temperature": 7.59,
+    "timestamp": "2020-12-12 08:27:09"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 90.35,
+    "sensorID": "2012",
+    "temperature": 6.54,
+    "timestamp": "2020-12-12 08:27:51"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 90.35,
+    "sensorID": "2012",
+    "temperature": 6.54,
+    "timestamp": "2020-12-12 08:27:52"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 90.34,
+    "sensorID": "2012",
+    "temperature": 6.54,
+    "timestamp": "2020-12-12 08:27:54"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5021",
+    "temperature": 7.59,
+    "timestamp": "2020-12-12 08:28:11"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.74,
+    "sensorID": "5021",
+    "temperature": 7.59,
+    "timestamp": "2020-12-12 08:28:12"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.74,
+    "sensorID": "5021",
+    "temperature": 7.59,
+    "timestamp": "2020-12-12 08:28:13"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:30:33"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:30:34"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:30:36"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5013",
+    "temperature": 7.79,
+    "timestamp": "2020-12-12 08:34:35"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5013",
+    "temperature": 7.79,
+    "timestamp": "2020-12-12 08:34:36"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5013",
+    "temperature": 7.79,
+    "timestamp": "2020-12-12 08:34:38"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:36:57"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:36:58"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:36:59"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:38:36"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:38:37"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:38:38"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5010",
+    "temperature": 8.7,
+    "timestamp": "2020-12-12 08:40:19"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5010",
+    "temperature": 8.7,
+    "timestamp": "2020-12-12 08:40:21"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5010",
+    "temperature": 8.7,
+    "timestamp": "2020-12-12 08:40:22"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 6.5,
+    "timestamp": "2020-12-12 08:41:29"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 6.5,
+    "timestamp": "2020-12-12 08:41:30"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 6.5,
+    "timestamp": "2020-12-12 08:41:31"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:43:01"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:43:02"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:43:03"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 90.35,
+    "sensorID": "2010",
+    "temperature": 6.71,
+    "timestamp": "2020-12-12 08:43:13"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 90.35,
+    "sensorID": "2010",
+    "temperature": 6.71,
+    "timestamp": "2020-12-12 08:43:14"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 90.34,
+    "sensorID": "2010",
+    "temperature": 6.71,
+    "timestamp": "2020-12-12 08:43:16"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:45:58"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:45:59"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:46:00"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5014",
+    "temperature": 7.4,
+    "timestamp": "2020-12-12 08:46:14"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5014",
+    "temperature": 7.4,
+    "timestamp": "2020-12-12 08:46:15"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.74,
+    "sensorID": "5014",
+    "temperature": 7.4,
+    "timestamp": "2020-12-12 08:46:17"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:47:20"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:47:21"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:47:22"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 08:47:27"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 08:47:29"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 08:47:30"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 08:47:47"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 08:47:48"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 08:47:49"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5018",
+    "temperature": 7.79,
+    "timestamp": "2020-12-12 08:49:59"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5018",
+    "temperature": 7.79,
+    "timestamp": "2020-12-12 08:50:01"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5018",
+    "temperature": 7.79,
+    "timestamp": "2020-12-12 08:50:02"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "1991",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 08:51:11"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "1991",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 08:51:12"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "1991",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 08:51:13"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 6.44,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 08:51:34"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 6.44,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 08:51:35"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 6.44,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 08:51:37"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "1774",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 08:53:25"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "1774",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 08:53:26"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "1774",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 08:53:28"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:53:43"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:53:44"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:53:46"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:54:22"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:54:23"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:54:24"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:55:48"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:55:49"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 08:55:50"
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 08:57:00",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 08:57:01",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 08:57:03",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5020",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 08:57:23"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5020",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 08:57:25"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5020",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 08:57:26"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5012",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:58:15"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5012",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:58:17"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5012",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:58:18"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5021",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:59:05"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5021",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:59:06"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5021",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 08:59:07"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 87.79,
+    "sensorID": "2012",
+    "temperature": 7.22,
+    "timestamp": "2020-12-12 08:59:14"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 87.79,
+    "sensorID": "2012",
+    "temperature": 7.22,
+    "timestamp": "2020-12-12 08:59:15"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 87.79,
+    "sensorID": "2012",
+    "temperature": 7.22,
+    "timestamp": "2020-12-12 08:59:17"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:02:04"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:02:05"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:02:06"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5013",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 09:05:21"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5013",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 09:05:22"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5013",
+    "temperature": 7.9,
+    "timestamp": "2020-12-12 09:05:23"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:08:37"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:08:38"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:08:39"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:09:24"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:09:25"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:09:26"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5010",
+    "temperature": 8.79,
+    "timestamp": "2020-12-12 09:11:50"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5010",
+    "temperature": 8.79,
+    "timestamp": "2020-12-12 09:11:51"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5010",
+    "temperature": 8.79,
+    "timestamp": "2020-12-12 09:11:52"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 6.7,
+    "timestamp": "2020-12-12 09:12:28"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 6.7,
+    "timestamp": "2020-12-12 09:12:29"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 6.7,
+    "timestamp": "2020-12-12 09:12:31"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:13:58"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:14:00"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:14:01"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 85.23,
+    "sensorID": "2010",
+    "temperature": 7.23,
+    "timestamp": "2020-12-12 09:14:38"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 85.23,
+    "sensorID": "2010",
+    "temperature": 7.23,
+    "timestamp": "2020-12-12 09:14:39"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 85.23,
+    "sensorID": "2010",
+    "temperature": 7.23,
+    "timestamp": "2020-12-12 09:14:41"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:16:41"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:16:42"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:16:44"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5014",
+    "temperature": 7.7,
+    "timestamp": "2020-12-12 09:17:16"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5014",
+    "temperature": 7.7,
+    "timestamp": "2020-12-12 09:17:17"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5014",
+    "temperature": 7.7,
+    "timestamp": "2020-12-12 09:17:18"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 09:18:14"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 09:18:15"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 09:18:17"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 09:18:18"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 09:18:20"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 09:18:21"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:18:26"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:18:28"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:18:29"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5018",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 09:20:40"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5018",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 09:20:41"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5018",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 09:20:42"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2661",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 09:21:45"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2661",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 09:21:46"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2661",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 09:21:47"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 09:23:16"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 09:23:17"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 09:23:18"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:24:30"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:24:32"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:24:33"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2274",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 09:24:53"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2274",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 09:24:55"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2274",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 09:24:56"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:25:47"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:25:48"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:25:50"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:27:25"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:27:26"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:27:28"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5020",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 09:28:37"
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 09:28:38",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5020",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 09:28:38"
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 09:28:39",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5020",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 09:28:40"
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 09:28:41",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5012",
+    "temperature": 8.29,
+    "timestamp": "2020-12-12 09:29:21"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5012",
+    "temperature": 8.29,
+    "timestamp": "2020-12-12 09:29:22"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5012",
+    "temperature": 8.29,
+    "timestamp": "2020-12-12 09:29:23"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5021",
+    "temperature": 8.2,
+    "timestamp": "2020-12-12 09:30:05"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5021",
+    "temperature": 8.2,
+    "timestamp": "2020-12-12 09:30:06"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5021",
+    "temperature": 8.2,
+    "timestamp": "2020-12-12 09:30:07"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 85.23,
+    "sensorID": "2012",
+    "temperature": 7.6,
+    "timestamp": "2020-12-12 09:30:24"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 85.24,
+    "sensorID": "2012",
+    "temperature": 7.6,
+    "timestamp": "2020-12-12 09:30:26"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 85.24,
+    "sensorID": "2012",
+    "temperature": 7.6,
+    "timestamp": "2020-12-12 09:30:27"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:33:40"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:33:41"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:33:43"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5013",
+    "temperature": 8.2,
+    "timestamp": "2020-12-12 09:36:11"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5013",
+    "temperature": 8.2,
+    "timestamp": "2020-12-12 09:36:13"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5013",
+    "temperature": 8.2,
+    "timestamp": "2020-12-12 09:36:14"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:40:11"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:40:13"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:40:14"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:40:15"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:40:16"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:40:17"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 6.79,
+    "timestamp": "2020-12-12 09:43:17"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 6.79,
+    "timestamp": "2020-12-12 09:43:18"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5010",
+    "temperature": 9,
+    "timestamp": "2020-12-12 09:43:18"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5010",
+    "temperature": 9,
+    "timestamp": "2020-12-12 09:43:19"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:45:01"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:45:02"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:45:03"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 82.68,
+    "sensorID": "2010",
+    "temperature": 7.68,
+    "timestamp": "2020-12-12 09:45:54"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 82.68,
+    "sensorID": "2010",
+    "temperature": 7.68,
+    "timestamp": "2020-12-12 09:45:55"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 82.67,
+    "sensorID": "2010",
+    "temperature": 7.68,
+    "timestamp": "2020-12-12 09:45:56"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:47:28"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:47:30"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:47:31"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5014",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 09:48:16"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5014",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 09:48:17"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5014",
+    "temperature": 8.09,
+    "timestamp": "2020-12-12 09:48:18"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 09:48:47"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 09:48:49"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 09:48:50"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 09:48:57"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 09:48:58"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 09:48:59"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:49:32"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:49:34"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:49:35"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5018",
+    "temperature": 8.29,
+    "timestamp": "2020-12-12 09:51:14"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5018",
+    "temperature": 8.29,
+    "timestamp": "2020-12-12 09:51:15"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5018",
+    "temperature": 8.29,
+    "timestamp": "2020-12-12 09:51:17"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "3032",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 09:52:13"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "3032",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 09:52:15"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "3032",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 09:52:16"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 09:54:56"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 09:54:57"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 09:54:58"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:55:19"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:55:20"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:55:21"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2677",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 09:56:15"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2677",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 09:56:17"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "2677",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 09:56:18"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:57:11"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:57:12"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:57:14"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:59:01"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:59:02"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 09:59:04"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5020",
+    "temperature": 8.79,
+    "timestamp": "2020-12-12 09:59:49"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5020",
+    "temperature": 8.79,
+    "timestamp": "2020-12-12 09:59:51"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5020",
+    "temperature": 8.79,
+    "timestamp": "2020-12-12 09:59:52"
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 10:00:13",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 10:00:14",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 10:00:16",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5012",
+    "temperature": 8.7,
+    "timestamp": "2020-12-12 10:00:25"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5012",
+    "temperature": 8.7,
+    "timestamp": "2020-12-12 10:00:26"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5012",
+    "temperature": 8.7,
+    "timestamp": "2020-12-12 10:00:27"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5021",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:01:04"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5021",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:01:06"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5021",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:01:07"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 82.68,
+    "sensorID": "2012",
+    "temperature": 8.04,
+    "timestamp": "2020-12-12 10:01:40"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 82.68,
+    "sensorID": "2012",
+    "temperature": 8.04,
+    "timestamp": "2020-12-12 10:01:42"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 82.68,
+    "sensorID": "2012",
+    "temperature": 8.04,
+    "timestamp": "2020-12-12 10:01:43"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:05:11"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:05:13"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6021",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:05:14"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5013",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:07:02"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5013",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:07:03"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5013",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:07:04"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:10:58"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:11:00"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6013",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:11:01"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:11:51"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:11:52"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6017",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:11:54"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5019",
+    "temperature": 7,
+    "timestamp": "2020-12-12 10:14:04"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 7,
+    "timestamp": "2020-12-12 10:14:06"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.75,
+    "sensorID": "5019",
+    "temperature": 7,
+    "timestamp": "2020-12-12 10:14:07"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5010",
+    "temperature": 9.09,
+    "timestamp": "2020-12-12 10:14:42"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5010",
+    "temperature": 9.09,
+    "timestamp": "2020-12-12 10:14:43"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5010",
+    "temperature": 9.09,
+    "timestamp": "2020-12-12 10:14:44"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:16:03"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:16:04"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6015",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:16:06"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 80.11,
+    "sensorID": "2010",
+    "temperature": 8.44,
+    "timestamp": "2020-12-12 10:17:10"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 80.12,
+    "sensorID": "2010",
+    "temperature": 8.44,
+    "timestamp": "2020-12-12 10:17:12"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 80.12,
+    "sensorID": "2010",
+    "temperature": 8.44,
+    "timestamp": "2020-12-12 10:17:13"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:18:18"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:18:19"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6014",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:18:21"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 10:19:12"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 10:19:13"
+}
+
+{
+    "actioncode": "rainsnowReturn",
+    "rainsnow": 0,
+    "sensorID": "7010",
+    "timestamp": "2020-12-12 10:19:14"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5014",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:19:16"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5014",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:19:17"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5014",
+    "temperature": 8.4,
+    "timestamp": "2020-12-12 10:19:18"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 10:19:36"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 10:19:38"
+}
+
+{
+    "actioncode": "winddirectionReturn",
+    "sensorID": "4011",
+    "timestamp": "2020-12-12 10:19:39"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:20:32"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:20:33"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6019",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:20:35"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5018",
+    "temperature": 8.59,
+    "timestamp": "2020-12-12 10:21:43"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5018",
+    "temperature": 8.59,
+    "timestamp": "2020-12-12 10:21:44"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5018",
+    "temperature": 8.59,
+    "timestamp": "2020-12-12 10:21:45"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "4225",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 10:22:39"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "4225",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 10:22:40"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "4225",
+    "sensorID": "1012",
+    "timestamp": "2020-12-12 10:22:42"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:26:06"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:26:07"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6016",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:26:09"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 10:26:32"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 10:26:34"
+}
+
+{
+    "actioncode": "pm2dot5Return",
+    "pm2dot5": 4.29,
+    "sensorID": "8011",
+    "timestamp": "2020-12-12 10:26:35"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "4064",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 10:27:35"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "4064",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 10:27:37"
+}
+
+{
+    "actioncode": "illuminanceReturn",
+    "illuminance": "4064",
+    "sensorID": "1010",
+    "timestamp": "2020-12-12 10:27:38"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:28:34"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:28:35"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6010",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:28:37"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:30:32"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:30:33"
+}
+
+{
+    "actioncode": "soilPHReturn",
+    "sensorID": "6012",
+    "soilPH": 6.9,
+    "timestamp": "2020-12-12 10:30:34"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5020",
+    "temperature": 9.2,
+    "timestamp": "2020-12-12 10:30:55"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5020",
+    "temperature": 9.2,
+    "timestamp": "2020-12-12 10:30:57"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5020",
+    "temperature": 9.2,
+    "timestamp": "2020-12-12 10:30:58"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5012",
+    "temperature": 9.2,
+    "timestamp": "2020-12-12 10:31:27"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5012",
+    "temperature": 9.2,
+    "timestamp": "2020-12-12 10:31:28"
+}
+
+{
+    "actioncode": "moistureReturn",
+    "moisture": 0.76,
+    "sensorID": "5012",
+    "temperature": 9.2,
+    "timestamp": "2020-12-12 10:31:29"
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 10:31:45",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 10:31:47",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "windspeedReturn",
+    "sensorID": "3010",
+    "timestamp": "2020-12-12 10:31:48",
+    "windspeed": 0
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 80.11,
+    "sensorID": "2012",
+    "temperature": 8.76,
+    "timestamp": "2020-12-12 10:32:52"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 80.12,
+    "sensorID": "2012",
+    "temperature": 8.76,
+    "timestamp": "2020-12-12 10:32:54"
+}
+
+{
+    "actioncode": "temphumidityReturn",
+    "humidity": 80.12,
+    "sensorID": "2012",
+    "temperature": 8.76,
+    "timestamp": "2020-12-12 10:32:55"
+}
+
